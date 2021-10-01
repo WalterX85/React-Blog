@@ -1,6 +1,6 @@
 import React from 'react'
 
-function AddArticle() {
+function Article() {
   return (
     <div>
       
@@ -8,4 +8,4 @@ function AddArticle() {
   )
 }
 
-export default AddArticle
+export default Article
